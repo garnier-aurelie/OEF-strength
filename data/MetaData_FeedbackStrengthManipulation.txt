@@ -1,0 +1,22 @@
+Meta-data for the analyses of the manuscript entitled
+"Manipulating the strength of organism-environment feedback increases nonlinearity and apparent hysteresis of ecosystem response to environmental change."
+Authors: Aurelie Garnier, Florence D. Hulot and Owen L. Petchey
+
+Data_FeedbackStrengthManipulation.csv
+
+$microcosm		identity of the microcosm (101 to 130 - used for recording the oxygen concentration)
+$gas			gas treatment; a factor with 5 levels: "Open", "200mL", "100mL", "50mL" and "Closed"  - ordered according to the increasing feedback strength
+$replicate		identity of the replicate (from 1 to 6)
+$day			day of the sampling and measurement
+$Temperature_H		temperature measured in the head (H) space with the optical-chemical device [Fibox 4trace, PreSens] (in degree celsius)
+$Temperature_L		temperature measured in the liquid (L) with the optical-chemical device [Fibox 4trace, PreSens] (in degree celsius)
+$Oxygen_H		oxygen concentration in the head space with the optical-chemical device [Fibox 4trace, PreSens] (percentage of oxygen - %O2)
+$Oxygen_L		oxygen concentration in the liquid with the optical-chemical device [Fibox 4trace, PreSens] (percentage of oxygen - %O2)
+$Density_bacteria	density (individuals per mL) of bacteria estimated from the flow cytometer measurement
+$Density_colpidium	density (individuals per mL) of Colpidium striatum (a prey species) estimated from the video analysis
+$Density_desxiostoma	density (individuals per mL) of Dexiostoma campylum (a prey species) estimated from the video analysis
+$Density_prey		density (individuals per mL) of the two prey species (C. striatum and D. campylum)
+$Density_spathidium	density (individuals per mL) of the predator Spathidium sp. counted in 1mL under a dissecting microscope
+$Density_cyst 		density (individuals per mL) of the cyst of the predator Spathidium sp. counted in 1mL under a dissecting microscope
+$Total_biomass		total biomass (mm3/mL) estimated with the morphological traits (length and width) of the individuals identified in the videos (mostly prey individuals)
+

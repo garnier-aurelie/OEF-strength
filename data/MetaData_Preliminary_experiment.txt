@@ -1,0 +1,15 @@
+Meta-data of the preliminary experiment of the manuscript entitled
+"Manipulating the strength of organism-environment feedback increases nonlinearity and apparent hysteresis of ecosystem response to environmental change."
+Authors: Aurelie Garnier, Florence D. Hulot and Owen L. Petchey
+
+Data_Preliminary_experiment.csv
+
+$design			gas treatment; a factor with 7 levels: "Open", "Closed", "+ 25mL", "+ 50mL", "+ 100mL", "+ 200mL", "+ 400mL"
+$SensorName		identity of the oxygen sensor (with "S_" or "H_" for the liquid and head space respectively; associated with the identity of the bottle (from 154 to 160)) 
+$date.time		date and time with the "YYYY-MM-DD" and "h:m:s" formats, respectively
+$deltaDay		
+$Value			oxygen concentration in the head space with the optical-chemical device [Fibox 4trace, PreSens] (percentage of oxygen - %O2)
+$Unit.1
+$Mode
+
+
